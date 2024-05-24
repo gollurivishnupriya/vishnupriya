@@ -1,1 +1,92 @@
-# vishnupriya
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+</head>
+<style>
+body{
+    margin:0;
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+ div li:hover{
+    color: #EA1179;
+}
+</style>
+<body>
+   <h1 style="display:flex;
+   justify-content:space-between;
+   width: 80%;
+   color:#EA1179;
+   margin: 0 auto;
+   align-items: center;
+   font-style: italic;
+   margin-top: 40px;
+   border:2px solid yellowgreen;
+   padding-top:1px;
+   padding-left: 100px;
+   padding-right:60px;">GOLLURI VISHNUPRIYA
+  <ul >
+    <div style="display: flex;
+      color: white;
+      font-size:medium;
+      list-style: none;
+      justify-content:right;
+      gap: 30px;">
+      <li>HOME</li>
+      <li >EDUCATION</li>
+      <li >SKILLS</li>
+      <li >CERTIFICATIONS</li>
+      <li >PROJECTS</li></div>  
+  </ul></h1> 
+   <h1 style="color:white; width: 80%;margin: 0 auto;line-height: 60px;">Frontend Developer | Data Analyst</h1>
+       <h3 style="color: #EA1179;
+        margin-bottom:30px ;
+        margin-top: 90px;
+        width:80%;
+        margin: 0 auto;">ABOUT</h3>
+        <p style="color: white; width: 60%; margin: right 80px; margin-left: 130px;line-height:30px;">A highly motivated and hardwroking individual looking for a responsible role in a reputable Organization.My goal is to become assosiated with a company where I can utilize my skills and gain furthuer experience while enhancing the company's productivity and reputation.</p>
+    <br/>
+    <h3 style="color:#EA1179; width: 80%;margin: 0 auto;line-height: 30px;">EDUCATION</h3>  
+    <h3 style="color:yellowgreen; width: 80%;margin: 0 auto;line-height: 30px;">GRADUATION</h3>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Bankatlal Badruka College For Information And Technology,Hyderabad</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">  Osmania University</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">BSC(Statistics)</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Year of passing: 2024</p>
+    </p>
+    <h3 style="color:yellowgreen; width: 80%;margin: 0 auto;line-height: 30px;">INTERMEDEATE</h3>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Internationl junior Degree College,Hyderabad</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;"> Telanagana State Board of Intermediate Education</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Mathemetics,Physics and chemistry</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Year of passing: 2021</p>
+    <h3 style="color:yellowgreen; width: 80%;margin: 0 auto;line-height: 30px;">SSC</h3>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">Prathibha High School,Manikonda,Hyderabad</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;"> Board Of Secondary Education,Telangana State</p>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;;">year of passing: 2019</p>
+    <br/>
+    <h3 style="color:#EA1179; width: 80%;margin: 0 auto;line-height: 30px;">SKILLS</h3>
+    <p style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;"> Technical skills:</p>
+    <ul style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;">
+    <li style="line-height: 30px;">Programming Languages:C,C++,HTML,CSS</li>
+     <li>MS Office:Excel,Powerpoint,Word,Outlook,MS Access</li></ul>
+    <br/>
+    <h3 style="color:#EA1179; width: 80%;margin: 0 auto;line-height: 30px;">CERTIFICATIONS</h3>
+    <ul style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;">
+        <li style="line-height: 30px;">C++ Course(Skillup by Simplilearn)
+        </li>
+         <li>Web Developer(IBM Skillbuild)</li></ul>
+         <br/>
+         <h3 style="color:#EA1179; width: 80%;margin: 0 auto;line-height: 30px;">PROJECTS</h3>
+         <ul style="color: white; width: 60%; margin: right 8opx; margin-left: 130px;">
+            <li style="line-height: 30px;">PORTFOLIO WEBSITE
+                <br/>
+            A simple website to describe about me. -HTML,CSS
+            </li></ul>
+            <br/>
+            <h3 style="color:#EA1179; width: 80%;margin: 0 auto;line-height: 30px;">CONTACT</h3>
+    <p style="color: white;margin: 0 auto;margin-left:160px ;">CONTACT ME ON - <a href="https://www.linkedin.com/in/golluri-vishnupriya-72648a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LINKEDIN</a></p></p>
+    
+    </body>
+</html>
